@@ -9,4 +9,4 @@ COPY application.yml .
 # Render injects PORT env var, Lavalink will use it
 EXPOSE 2333
 
-CMD ["java", "-jar", "Lavalink.jar"]￼Enter
+CMD ["java", "-jar", "Lavalink.jar"]
